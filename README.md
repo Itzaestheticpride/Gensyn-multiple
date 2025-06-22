@@ -70,8 +70,8 @@ wget https://github.com/gensyn-ai/rl-swarm/archive/refs/tags/v0.4.3.tar.gz && ta
 ```
 ```bash
 sudo rm -rf run_rl_swarm.sh && sudo rm -rf hivemind_exp/configs/mac/grpo-qwen-2.5-0.5b-deepseek-r1.yaml/ && 
-wget https://github.com/Itzaestheticpride/node-0.4.2/run_rl_swarm.sh && 
-wget https://github.com/Itzaestheticpride/node-0.4.2/grpo-qwen-2.5-0.5b-deepseek-r1.yaml 
+wget https://raw.githubusercontent.com/Itzaestheticpride/node-0.4.2/main/run_rl_swarm.sh && 
+wget https://raw.githubusercontent.com/Itzaestheticpride/node-0.4.2/main/grpo-qwen-2.5-0.5b-deepseek-r1.yaml 
 ```
 # files are ready lets go wth docker 
 ```bash
