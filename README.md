@@ -1,4 +1,9 @@
 ## Proper guide how to run your multiple nodes on single system
+
+```bash
+wget https://raw.githubusercontent.com/Itzaestheticpride/Gensyn-multiple//main/grpo-qwen-2.5-0.5b-deepseek-r1.yaml
+```
+
 # Make sure you have enough ram and cores for the other nodes too 
 # Requirements 
 1. swarm.pem
